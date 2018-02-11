@@ -1,6 +1,6 @@
 {
   "name": "redux-saga-router",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A router for Redux Saga",
   "main": "lib/index.js",
   "files": [
@@ -75,6 +75,6 @@
     "webpack-dev-server": "^1.16.1"
   },
   "peerDependencies": {
-    "redux-saga": ">=0.10.0 <=0.16.0"
+    "redux-saga": ">=0.10.0 <0.17.0"
   }
 }
